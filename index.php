@@ -101,6 +101,9 @@ for ($day = 1; $day <= $day_count; $day++, $youbi++) {
     <?php require_once('elements/navbar.php'); ?>
 
 <main>
+    <div>
+        test
+    </div>
     <div class="container">
         <table class="table table-bordered calendar">
             <thead>
